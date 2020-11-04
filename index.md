@@ -1,5 +1,7 @@
 ## Notebook linked to the poster "Python and Pandas for Papyrology"
 
+`import pandas as pd`
+
 # Please come back later, this site is under construction!
 
 ### Contact
