@@ -1,4 +1,8 @@
-## Notebook linked to the poster "Python and Pandas for Papyrology"
+## 01.12.2020: Notebook linked to the presentation "Mobilität von Menschen und schriftlicher Praxis: der Beitrag der familiären Papyrusbriefe im griechisch-römischen Ägypten"
+
+ --coming soon--
+
+## 05.11.2020: Notebook linked to the poster "Python and Pandas for Papyrology"
 
 Click [HERE](https://github.com/AudricWannaz/Notebooks) to access the interactive notebook of the Network Analysis!
 
