@@ -1,22 +1,12 @@
-## 09.03.2021: Notebook linked to the presentation "Zur stilometrischen Signatur des Familienbriefes und ihrem Aussagegehalt für die Sozialgeschichte des griechisch-römischen Ägyptens"
+## 05.11.2021: presentation "Stylometry: an Archeometry for the text-based Classics?" 
 
-<details>
-  <summary>+</summary>
-  
---coming soon--
-</details>
+## 09.07.2021: presentation "Using a Python Corpus Manager in the Field of Classics - two Case Studies"
 
+## 09.03.2021: presentation "Zur stilometrischen Signatur des Familienbriefes und ihrem Aussagegehalt für die Sozialgeschichte des griechisch-römischen Ägyptens"
 
-## 01.12.2020: Notebook linked to the presentation "Mobilität von Menschen und schriftlicher Praxis: der Beitrag der familiären Papyrusbriefe im griechisch-römischen Ägypten"
-
-<details>
-  <summary>+</summary>
-  
---coming soon--
-</details>
+## 01.12.2020: presentation "Mobilität von Menschen und schriftlicher Praxis: der Beitrag der familiären Papyrusbriefe im griechisch-römischen Ägypten"
 
 ## 05.11.2020: Notebook linked to the poster "Python and Pandas for Papyrology"
-
 
 <details>
   <summary>+</summary>
